@@ -1,3 +1,17 @@
+# v2.0.15 (Tue Feb 24 2026)
+
+#### 🐛 Bug Fix
+
+- feat: add KVDataMemory for periodic memory usage monitoring [#35](https://github.com/salute-developers/web-telemetry/pull/35) ([@SeanSilke](https://github.com/SeanSilke))
+- Remove math round on telemetry with web vitals [#33](https://github.com/salute-developers/web-telemetry/pull/33) ([@pamellix](https://github.com/pamellix))
+
+#### Authors: 2
+
+- Paul ([@pamellix](https://github.com/pamellix))
+- Sergey Orlov ([@SeanSilke](https://github.com/SeanSilke))
+
+---
+
 # v2.0.14 (Tue Apr 15 2025)
 
 #### 🐛 Bug Fix
